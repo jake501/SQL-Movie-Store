@@ -1,5 +1,5 @@
 # SQL-Movie-Store
-Extended upon a college project, incorporates Python with creating a basic SQL database.
+Extended upon a college project, incorporates Python with creating a basic SQL database. This project using OracleSQL.
 
 ## Disclaimer
 This project is a college project to learn SQL. I will not specify the class or too many project details, plus I'm expanding on it more than the original project called for anyway. The dataset contains IMDB data on movie titles, actors and directors. The "Movie Store" is not real, all data should be considered fake and is only used for building the SQL database. 
